@@ -1,4 +1,4 @@
-# Chapter 2 -- Essentials
+# Chapter 2 – Essentials
 
 ## Program Output
 
